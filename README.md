@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @estefanyberrios
 - 👀 I’m interested in startups, blockchain and coding.
-- 🌱 I’m currently learning programming and data science at UC Berkeley.
+- 🌱 I’m currently data science and business analytics @ UC Berkeley. (go bears!)
 - 💞️ I’m looking to collaborate on in-class projects.
 - 📫 How to reach me estefanyb@berkeley.edu
 
