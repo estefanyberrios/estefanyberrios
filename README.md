@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @estefanyberrios
-- 👀 I’m interested in coding, blockchain and investing.
+- 👀 I’m interested in startups, blockchain and coding.
 - 🌱 I’m currently learning programming and data science at UC Berkeley.
 - 💞️ I’m looking to collaborate on in-class projects.
 - 📫 How to reach me estefanyb@berkeley.edu
