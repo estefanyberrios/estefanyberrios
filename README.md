@@ -2,9 +2,10 @@
 ## About Me :
 - 👋 I’m @estefanyberrios
 - 👀 I’m interested in startups, blockchain and coding.
-- 🌱 I’m currently studying data science and business analytics @ UC Berkeley. (go bears!)
+- 🌱 I’m currently studying data science with an emphasis on business & industrial analytics @ UC Berkeley.
 - 💞 I’m looking to collaborate on in-class projects.
-- 📫 How to reach me estefanyb@berkeley.edu
+- 📫 How to reach me : estefanyb@berkeley.edu | [Linkedin](https://www.linkedin.com/in/estefany-berrios/)
+
 
 
 
