@@ -1,7 +1,7 @@
 # Hello !
 ## About Me :
 - 👋 I’m @estefanyberrios
-- 👀 I’m interested in startups, blockchain and coding.
+- 👀 I’m interested in startups, AI and finance!
 - 🌱 I’m currently studying data science at the University of California, Berkeley.
 - 📫 How to reach me : estefanyb@berkeley.edu | [Linkedin](https://www.linkedin.com/in/estefany-berrios/)
 
